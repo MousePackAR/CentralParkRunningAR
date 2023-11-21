@@ -397,6 +397,8 @@ GoogleBuildAndRun_BurstDebugInformation_DoNotShip/
 
 .vsconfig
 
+GoogleBuildAndRun/
+
 # Visual Studio 6 build log
 *.plg
 
