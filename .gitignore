@@ -389,6 +389,14 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+GoogleBuildAndRun_BurstDebugInformation_DoNotShip/
+
+.DS_Store
+
+.vscode/
+
+.vsconfig
+
 # Visual Studio 6 build log
 *.plg
 
